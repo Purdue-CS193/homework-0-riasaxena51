@@ -18,6 +18,7 @@ Here are some of my favorite things about CS193:
 - The TAs are super witty, helpful, and encouraging
 - The class helps get a good grasp on the subject and prepares us for the labwork
 - The style of teaching is very effective and enjoyable
+- Can interact and get our doubts resolved in class as the lecture hall is not big
 
 **Bold** and _Italic_ and `Code` text
 
